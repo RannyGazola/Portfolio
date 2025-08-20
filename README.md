@@ -1,30 +1,5 @@
 # **Ranny Gazola Fontana** | [LinkedIn](https://www.linkedin.com/in/rannygazola/)
 
-
-![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=target&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=target&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=target&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Pentaho](https://img.shields.io/badge/Pentaho-0278BD?style=for-the-badge&logo=target&logoColor=white)
-![Big Data](https://img.shields.io/badge/Big%20Data-292929?style=for-the-badge&logo=simpleanalytics&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=target&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Monday](https://img.shields.io/badge/Monday-FF7555?style=for-the-badge&logo=target&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=target&logoColor=white)
-
 👋  Seja bem-vindo(a)! Aqui você vai encontrar projetos que desenvolvi durante minha trajetória acadêmica e profissional.
 
 # 💼 **Sobre Mim**
@@ -36,9 +11,9 @@ Acredito no conceito de Life Long Learning como base para o crescimento pessoal 
 
 **Experiência**
 
-📊 Desenvolvimento de **dashboards interativos (Power BI, Grafana, Looker Studio, BigQuery)**, alinhados às necessidades das áreas de negócio, com foco em dados educacionais e análise de métricas de performance.
-
 🗃️ Criação de consultas **SQL avançadas** (CTEs, joins, filtros) para múltiplas bases relacionais **(PostgreSQL, SQL Server, Oracle, MySQL)**, com **extração de relatórios em Excel, CSV** e automação de entregas.
+
+📊 Desenvolvimento de **dashboards (Grafana, Power BI e Looker Studio)**, com foco em dados educacionais e análise de métricas de performance.
 
 🔄 Estruturação e manutenção de pipelines de dados **(ETL/ELT) com Pentaho PDI**, integrando fontes internas e externas, garantindo a qualidade e a integridade dos dados utilizados nas análises e sistemas.
 
@@ -54,6 +29,12 @@ Acredito no conceito de Life Long Learning como base para o crescimento pessoal 
 - Ciência de Dados, UNIVESP - Cursando
 - Tenologia da Informação, UNIVESP - 2024
 - Comunicação Visual, ETEC Carlos de Campos - 2018
+
+# 📁 **Portfólio**
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/adae553e-3a0c-4888-a8d4-f5391b5e7be7" />
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/bcf92a52-8f4b-4710-add3-bb4073184048" />
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/f05cbf02-4fc9-48f0-a971-2bd7d6eeca3a" />
+
 
 # 📚 **Cursos de Extensão**
 - Banco de Dados e Linguagem SQL com PostgreSQL, 16h com Jones Granatyr - Udemy
@@ -89,20 +70,15 @@ Acredito no conceito de Life Long Learning como base para o crescimento pessoal 
 # 🏅 **Certificações**
 ONE | TECH FOUNDATION - Especialização Data Science - Alura & Oracle
 
-# 📁 **Portfólio**
 
 # 🛠️ **Competências Técnicas**
 ✅ Linguagem SQL (PostgreSQL, MySQL, Oracle, SQL Server)
 
 ✅ Modelagem e Administração de Banco de Dados
 
-✅ Excel Avançado (Power Query, Tabelas Dinâmicas, VBA básico)
+✅ Excel Avançado
 
-✅ Power BI (Dashboard, DAX, Power Query)
-
-✅ Looker Studio e Google BigQuery
-
-✅ Grafana (monitoramento e visualização de métricas)
+✅ Grafana, Power BI e Looker Studio
 
 ✅ Linguagem Python (Pandas, NumPy, Plotly, Matplotlib, automação)
 
@@ -119,8 +95,6 @@ ONE | TECH FOUNDATION - Especialização Data Science - Alura & Oracle
 ✅ Big Data (conceitos, arquitetura e ferramentas)
 
 ✅ Ferramentas Google Workspace (Sheets, Docs, Slides)
-
-✅ Google Cloud Platform (GCP) - BigQuery, Data Studio, Storage
 
 ✅ Lógica de Programação e Engenharia de Prompts para IA
 
