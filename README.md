@@ -32,6 +32,7 @@ Acredito no conceito de Life Long Learning como base para o crescimento pessoal 
 
 # 📁 **Portfólio**
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/adae553e-3a0c-4888-a8d4-f5391b5e7be7" />
+<img width="1920" height="1080" alt="Dashboard Projetos (1)" src="https://github.com/user-attachments/assets/5974d408-5d12-4b5c-a4c8-000cd555b768" />
 <img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/bcf92a52-8f4b-4710-add3-bb4073184048" />
 <img width="1920" height="1080" alt="Dashboard Projetos" src="https://github.com/user-attachments/assets/41a02125-ef02-4c85-94a9-2db207f5bc22" />
 <img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/f05cbf02-4fc9-48f0-a971-2bd7d6eeca3a" />
